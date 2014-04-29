@@ -1,0 +1,22 @@
+{
+  "name": "nsa",
+  "version": "0.0.1",
+  "description": "Hey NSA! is a google chrome plugin that allows anyone to spy your activity ON THE LINE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "santi grau",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.0.0",
+    "stylus": "~0.43.1",
+    "nib": "~1.0.2",
+    "jade": "~1.3.1",
+    "aws-sdk": "~2.0.0-rc13"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}

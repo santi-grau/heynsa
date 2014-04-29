@@ -1,4 +1,4 @@
-heynsa
-======
+H-E-Y----N-S-A
+==============
 
-Chrome extension that will spy you!
+Hey NSA! is a google chrome plugin that allows anyone to spy your activity ON THE LINE.
